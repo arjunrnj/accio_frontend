@@ -1,0 +1,32 @@
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(52, 30, 1);
+  color: white;
+  height: 50px;
+  top:0;
+  position: fixed;
+  
+  width: 100vw;
+}
+.nav_items{
+  display: flex;
+}
+.p{
+  margin: 1.2rem;
+  /* background-color: antiquewhite; */
+}
+.logo{
+  margin-left: 1rem;
+}
+.bdy{
+  display: flex;
+  margin-top: 2.5rem;
+}
+.bddy{
+  display: flex;
+}
+.bddy1{
+  margin: 5px;
+}
